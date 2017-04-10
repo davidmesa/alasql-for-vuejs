@@ -1,0 +1,19 @@
+{
+  "name": "gdx-alasql",
+  "version": "0.0.1",
+  "description": "Dirty alasql fix",
+  "main": "alasql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmesa/alasql-for-vuejs.git"
+  },
+  "author": "David Mesa <david.mesa@gdx.travel>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmesa/alasql-for-vuejs/issues"
+  },
+  "homepage": "https://github.com/davidmesa/alasql-for-vuejs#readme"
+}
